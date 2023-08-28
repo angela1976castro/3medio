@@ -67,11 +67,11 @@ el programa saltará a este bloque `except` y capturará la excepción en la var
 
 ```python
 return f"Error al verificar {magnitud}: {str(e)}"
-```
+```gh
 Aquí, si ocurre un error, se devuelve un mensaje 
 indicando que hubo un error al verificar la magnitud 
 y se muestra la descripción del error capturado.
-
+gghhjjjkjkkklllll
 El resto del código consiste en la entrada de 
 datos por parte de los estudiantes, 
 la verificación de instalación, 
