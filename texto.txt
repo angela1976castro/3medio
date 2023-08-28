@@ -1,0 +1,19 @@
+
+1. **Magnitud:** Una magnitud es una propiedad cuantificable o medible de un objeto o sistema. 
+Puede ser una cantidad física como longitud, tiempo, temperatura, voltaje, corriente, presión,
+ entre otras. En el contexto de tu programa, "magnitud" se refiere a la propiedad que se está midiendo, como el voltaje o la corriente en un equipo.
+
+2. **Valor Nominal:** El valor nominal es el valor teórico o de diseño que se espera que tenga una magnitud en una determinada 
+situación o configuración. Es el valor que se considera como "normal" o "ideal" para una aplicación específica. Por ejemplo, el valor nominal
+ de un resistor de 220 ohmios significa que en condiciones ideales, su resistencia sería exactamente 220 ohmios.
+
+3. **Tolerancia:** La tolerancia es el rango aceptable de variación alrededor del valor nominal. 
+Representa la cantidad de variación que se considera aceptable sin que la magnitud deje de cumplir con su función adecuadamente. 
+Las tolerancias se expresan generalmente en porcentaje o en unidades de medida de la magnitud en cuestión. 
+Por ejemplo, una resistencia de 220 ohmios con una tolerancia del 5% significa que su valor real podría variar en +/- 5% alrededor del valor nominal (220 ohmios).
+
+En el contexto de tu programa, estás simulando la medición de magnitudes técnicas, 
+como voltaje o corriente, en equipos. 
+Los valores nominales son los valores teóricos ideales que deberían tener esas magnitudes, 
+y las tolerancias indican cuánto margen de variación se considera aceptable en esas mediciones.
+Si tienes más preguntas o necesitas más aclaraciones, no dudes en preguntar.
